@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+If you want to reach me regarding any relevant Github activity, please feel free to e-mail me at raphael (at) rtpg.co
 <!--
 **rtpg/rtpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
